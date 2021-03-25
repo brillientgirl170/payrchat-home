@@ -139,7 +139,7 @@
 
 
                       <div class="foot-content">
-                          <p>© 2019 <strong>Socialite</strong>. All Rights Reserved. </p>
+                          <p>© 2021 <strong>Payrchat</strong>. All Rights Reserved. </p>
                       </div>
 
                   </div>
